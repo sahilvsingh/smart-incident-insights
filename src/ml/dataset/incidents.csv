@@ -1,0 +1,13 @@
+description,category
+"server down in us-east-1","infrastructure"
+"user cannot login after password reset","authentication"
+"credit card payment failed for order 123","payment"
+"db connection timeout on read replica","database"
+"ui button not responding on chrome","ui"
+"high latency on internal network","network"
+"oauth token expired causing 401","authentication"
+"disk space near full on kafka broker","infrastructure"
+"stripe webhook failing with 500","payment"
+"deadlock detected in postgres","database"
+"layout broken on mobile safari","ui"
+"packet drops between svc-a and svc-b","network"
